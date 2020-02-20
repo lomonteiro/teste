@@ -1,4 +1,5 @@
 Teste
+-
 
 Orientações para rodar a aplicação:
 - Criar uma base de dados PostgreSQL com nome teste, rodar o script teste.sql na raiz do projeto (ou rodar a aplicação,
