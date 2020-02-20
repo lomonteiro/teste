@@ -7,8 +7,9 @@ ela já cria os objetos do banco automaticamente);
 - O usuário da base de dados é postgres e a senha é 123456;
 
 Orientações para utilização da API:
-- 
+- Serviço de recebimento de pedidos
 
+-
 
 Cenário descrito:
 
